@@ -10,20 +10,35 @@ My Discord for Help: ! A n g e l a🍁࿐໋࿔･・backup#4194
 How to install:
 
 Install the RAR File,
+
 Extract to your Desktop
+
 Open Eclipse with the Directory C:\Users\USERNAME\Desktop\TestClient\eclipse
+
 Right Click on Client go to BuildPath
+
 Go to Configure Buildpath
+
 Go to Libraries
+
 Scroll Down
+
 Click on vecmath
+
 Click edit
+
 Go to your Desktop
+
 Client Folder
+
 Lib
+
 Select Vecmath and click Ok(or save)
+
 Click on Apply and Close
+
 and Done!
+
 
 
 ![alt text](https://prnt.sc/11t8l8f)
