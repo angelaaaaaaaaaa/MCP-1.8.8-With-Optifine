@@ -38,27 +38,3 @@ Select Vecmath and click Ok(or save)
 Click on Apply and Close
 
 and Done!
-
-
-
-![Test Image 1](download (1))
-
-![alt text](download (2))
-
-![alt text](download (3))
-
-![alt text](download (4))
-
-![alt text](https://prnt.sc/11t8ndk)
-
-![alt text](https://prnt.sc/11t8o2l)
-
-![alt text](https://prnt.sc/11t8on3)
-
-![alt text](https://prnt.sc/11t8pao)
-
-![alt text](https://prnt.sc/11t8ppf)
-
-![alt text](https://prnt.sc/11t8q9m)
-
-![alt text](https://prnt.sc/11t8qow)
