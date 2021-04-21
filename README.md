@@ -5,3 +5,45 @@ https://www.mediafire.com/file/rpg9sqjx4ei1gby/TestClient.rar/file
 Thank you for viewing this repository <3
 
 My Discord for Help: ! A n g e l a🍁࿐໋࿔･・backup#4194
+
+
+How to install:
+
+Install the RAR File,
+Extract to your Desktop
+Open Eclipse with the Directory C:\Users\USERNAME\Desktop\TestClient\eclipse
+Right Click on Client go to BuildPath
+Go to Configure Buildpath
+Go to Libraries
+Scroll Down
+Click on vecmath
+Click edit
+Go to your Desktop
+Client Folder
+Lib
+Select Vecmath and click Ok(or save)
+Click on Apply and Close
+and Done!
+
+
+![alt text](https://prnt.sc/11t8l8f)
+
+![alt text](https://prnt.sc/11t8lo5)
+
+![alt text](https://prnt.sc/11t8m2n)
+
+![alt text](https://prnt.sc/11t8mp5)
+
+![alt text](https://prnt.sc/11t8ndk)
+
+![alt text](https://prnt.sc/11t8o2l)
+
+![alt text](https://prnt.sc/11t8on3)
+
+![alt text](https://prnt.sc/11t8pao)
+
+![alt text](https://prnt.sc/11t8ppf)
+
+![alt text](https://prnt.sc/11t8q9m)
+
+![alt text](https://prnt.sc/11t8qow)
