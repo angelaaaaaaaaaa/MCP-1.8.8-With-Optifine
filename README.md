@@ -42,4 +42,4 @@ and Done!
 
 
 
-![alt text](https://prnt.sc/11t8qow)
+![alt text](https://github.com/angelaaaaaaaaaa/MCP-1.8.8-With-Optifine/blob/main/download%20(1).png?raw=true)
